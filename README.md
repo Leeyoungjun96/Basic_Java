@@ -5,8 +5,8 @@
 
 ***
 ## 자바
-[Basic](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Basic.md)
-[Memory Domain](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Memory%20Domain.md)
-[Array](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Array.md)
-[Class](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Class.md)
-[Inheritance](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Inheritance.md)
+* [Basic](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Basic.md)
+* [Memory Domain](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Memory%20Domain.md)
+* [Array](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Array.md)
+* [Class](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Class.md)
+* [Inheritance](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Inheritance.md)
