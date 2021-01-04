@@ -10,3 +10,4 @@
 * [Array](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Array.md)
 * [Class](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Class.md)
 * [Inheritance](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Inheritance.md)
+* [Interface](https://github.com/Leeyoungjun96/Waht-I-Learned/blob/main/Interface.md)
